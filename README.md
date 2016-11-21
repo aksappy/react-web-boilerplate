@@ -1,2 +1,2 @@
 # react-web-boilerplate
-Boilerplate for ReactJS, Redux, React-Router, Redux-Logger, Webpack, Hot Reload
+Minimalistic Boilerplate for ReactJS, Webpack, Hot Reload
